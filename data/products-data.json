@@ -1,0 +1,11 @@
+[
+  { "_id": "3", "name": "M249", "price": 1000, "category": "weapons" },
+  { "_id": "TPWv1", "name": "AK-47", "price": 100, "category": "weapons" },
+  { "_id": "n1ACQ", "name": "Omer Mazig", "price": 123, "category": "None" },
+  { "_id": "2", "name": "M249", "price": 1000, "category": "weapons" },
+  { "_id": "4", "name": "AK-47", "price": 100, "category": "weapons" },
+  { "_id": "5", "name": "Omer Mazig", "price": 123, "category": "None" },
+  { "_id": "6", "name": "M249", "price": 1000, "category": "weapons" },
+  { "_id": "7", "name": "AK-47", "price": 100, "category": "weapons" },
+  { "_id": "8", "name": "Omer Mazig", "price": 123, "category": "None" }
+]

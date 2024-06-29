@@ -6,6 +6,9 @@ function makeFilter(q) {
   if (q["name"]) {
     res.name = { $regex: q["name"], $options: "i" }; // "i" for case-insensitive
   }
+  if (q["category"]) {
+    res.category = { $regex: q["category"], $options: "i" }; // "i" for case-insensitive
+  }
 
   if (q["minPrice"] || q["maxPrice"]) {
     res.price = {};
